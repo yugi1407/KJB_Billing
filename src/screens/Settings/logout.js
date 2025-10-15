@@ -61,6 +61,7 @@ export default function CustomConfirmModal({
           </View>
         </View>
       </View>
+      
     </Modal>
   );
 }
